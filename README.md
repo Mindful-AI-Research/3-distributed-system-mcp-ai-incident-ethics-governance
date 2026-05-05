@@ -15,7 +15,7 @@
 
 <!-- ========= START MAIN BADGE ========= -->
 <p align="center" style="margin: 0;">
-  <a href="https://stalwart-rolypoly-b74468.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://melodious-squirrel-7f92a7.netlify.app/" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/badge/React%20Interactive-MCP%20Smart%20Incident%20Analyzer%20Presentation-0f172a?style=for-the-badge&logo=react&logoColor=white" 
       alt="React Interactive – MCP Smart Incident Analyzer Presentation"
