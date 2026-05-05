@@ -14,7 +14,7 @@
 
 
 <!-- ========= START MAIN BADGE ========= -->
-<!-- ========= START MAIN PRESENTATION (REACT) ========= -->
+<!-- ========= START MAIN BADGE ========= -->
 <p align="center" style="margin: 0;">
   <a href="https://stalwart-rolypoly-b74468.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img 
@@ -27,7 +27,8 @@
 
 <!-- ========= START SECONDARY BADGES ========= -->
 <p align="center" style="margin: 0;">
-  <a href="https://github.com/Mindful-AI-Assistants/3-distributed-system-mcp-smart-incident-analyzer/blob/962efcf08df89064510ddb7e6e224db0b56790aa/Presentation/%F0%9F%87%A7%F0%9F%87%B7Portuguese/Apresentacao_MCP.pptx"
+  <a href="https://docs.google.com/presentation/d/1sgzuw0826E6xGrU9MUKSbU-BiJSKd8LN/edit?slide=id.p1#slide=id.p1" target="_blank" rel="noopener noreferrer">
+    <img 
       src="https://img.shields.io/badge/PPTX-Strategic%20Presentation-0f766e?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" 
       alt="PPTX Strategic Presentation"
       style="height: 32px; width: auto; margin-right: 8px;"
@@ -40,6 +41,7 @@
     />
   </a>
 </p>
+<!-- ========= END BADGES ========= -->
 <!-- ========= END BADGES ========= -->
 
 
