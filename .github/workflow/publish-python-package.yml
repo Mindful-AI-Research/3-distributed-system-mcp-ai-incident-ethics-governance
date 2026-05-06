@@ -30,6 +30,6 @@ jobs:
       - name: Build package
         run: python -m build
       - name: Publish package
-        uses: pypa/gh-action-pypi-publish@release/v1
+        uses: pypa/gh-action-pypi-publish@<FULL_40_CHAR_COMMIT_SHA> # pin the commit for the desired release/v1 version
         with:
           password: ${{ secrets.PYPI_API_TOKEN }}
