@@ -8,8 +8,25 @@
 
 ### <p align="center"> Distributed Communication for AI with MCP (Model Context Protocol) </p>
 
+<br><br
+
+#
+
 <br><br>
+
 <!-- ========= END REPO TITLE ========= -->
+
+<!-- ========= Start SPONSOR BADGE ========= -->
+<p align="center">
+
+  <a href="https://github.com/sponsors/Mindful-AI-Research">
+    <img
+      src="https://img.shields.io/badge/Sponsor-%E0%A5%90%20Mindful%20AI%20%E2%8B%86%20Research%20%26%20Consulting%20%F0%96%A4%90-3A424C?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=07111F"
+      alt="Sponsor ॐ Mindful AI ⋆ Research & Consulting 𖤐"
+      height="36"
+  </a>
+</p>
+<!-- ========= END SPONSOR BADGE ========= -->
 
 
  <!-- ========= START TEASER ========= -->
@@ -19,24 +36,8 @@
 
 ### <p align="center">⚡️</p>
 
-<br>
-
-#
-
 <br><br>
 <!-- ========= END TEASER ========= -->
-
-
-<!-- ========= START SPONSOR BADGE ========= -->
-<p align="center">
-  <a href="https://github.com/sponsors/Mindful-AI-Research">
-    <img src="https://img.shields.io/badge/Sponsor-%E0%A5%90%20%E2%8B%86%20Mindful%20AI%20%E2%8B%86%20Research%20%26%20Consulting%20%F0%96%A4%90%20%E2%8B%86-00FFFF?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0a1f44" alt="Sponsor ॐ ⋆ Mindful AI ⋆ Research & Consulting 𖤐 ⋆">
-  </a>
-</p>
-
-
-<br><br>
-<!-- ========= END SPONSOR BADGE ========= -->
 
 <!-- ========= Start Overview ========= -->
 ## [Overview]()
@@ -96,16 +97,6 @@ This project is designed as a governance and Responsible AI layer, focused on th
 
 <br><br>
 <!-- ========= END Institucional INFO ========= -->
-
-
-
-<!-- ========= START SPONSORT BADGE ========= -->
- <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
-
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
-
-<br><br>
-<!-- ========= END SPONSORTBADGE ========= -->
 
 
 <!-- =========  START DEMO VIDEO ========= -->
