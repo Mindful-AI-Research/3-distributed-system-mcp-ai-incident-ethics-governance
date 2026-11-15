@@ -180,7 +180,7 @@ In practice, the system was designed to receive events, occurrences, failures, d
 
 ## Table of Contents
 
-- [1. Problem Context](#1-problem-context)
+- [1.Problem Context](#1-problem-context)
 - [2. Project Objective](#2-project-objective)
 - [3. Proposed Solution](#3-proposed-solution)
 - [4. Why Use MCP](#4-why-use-mcp)
@@ -260,7 +260,7 @@ O grande diferencial da solução está justamente no fato de que os **MCP serve
 ### Por que isso é importante
 Em sistemas distribuídos, vários componentes podem participar da decisão final. Sem um protocolo bem definido, a comunicação tende a ficar improvisada, difícil de manter e pouco auditável. O MCP ajuda a transformar essa comunicação em algo previsível, modular e tecnicamente compreensível.
 
----
+<br><br>
 
 ## 5. Conceitos e siglas fundamentais
 
@@ -305,7 +305,7 @@ Conjunto de informações relevantes para interpretação de um caso. Serve para
 ### Orquestração
 Processo de coordenação entre componentes e etapas do sistema. Serve para organizar a ordem de execução, a distribuição de tarefas e a consolidação dos resultados. É importante porque garante coerência no funcionamento da arquitetura distribuída.
 
----
+<br><br>
 
 ## 6. Arquitetura da solução
 
@@ -317,7 +317,11 @@ A arquitetura foi desenhada para privilegiar cinco características centrais:
 - rastreabilidade;
 - extensibilidade.
 
+<br><br>
+
 ### Visão arquitetural
+
+<br>
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables': {
@@ -345,13 +349,17 @@ flowchart LR
     I --> J[Dashboard / Relatório / Resposta]
 ```
 
+
+
+<br><br>
+
 ### Leitura da arquitetura
 
 O fluxo começa com a entrada do usuário. A interface recebe o incidente e o envia ao orquestrador. O orquestrador estrutura o caso e utiliza o **MCP Client** para distribuir o contexto a diferentes **MCP Servers**, cada um especializado em uma função. Depois disso, as saídas retornam para a camada analítica, que consolida os achados em uma resposta útil para o usuário final.
 
 Essa separação é importante porque permite crescimento modular sem comprometer clareza arquitetural.
 
----
+<br><br>
 
 ## 7. Arquitetura lógica e arquitetura física
 
