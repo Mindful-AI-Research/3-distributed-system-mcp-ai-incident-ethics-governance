@@ -84,10 +84,10 @@ This project is designed as a governance and Responsible AI layer, focused on th
 <!-- ======================================= Start nstitucional INFO ===========================================  -->
  <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
 
-[**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP  Humanistic AI & Data Science • 5º Semestre • 2026 <br>
+[**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP  Humanistic AI & Data Science • 5º Semestre ) 2026 <br>
 [**School:**]() Faculty of Interdisciplinary Studies  <br>
 [Course Repo:]() INTEGRATED PROJECT: MACHINE LEARNING  <br>
-**Prof. Dr.:**  [⭐️ Carlos Eduardo Paes](https://www.linkedin.com/in/carlos-eduardo-de-barros-paes-ph-d-7b137a4/)  <br>
+**Prof. Dr.:**  [⭐️ Carlos Eduardo Paes](https://www.linkedin.com/in/carlos-eduardo-de-barros-paes-ph-d-7b137a4/) (Cacá)  <br>
 **Author:**  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari)  
 
 
