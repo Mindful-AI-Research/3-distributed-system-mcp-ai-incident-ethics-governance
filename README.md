@@ -8,7 +8,7 @@
 
 ### <p align="center"> Distributed Communication for AI with MCP (Model Context Protocol) </p>
 
-<br><br
+<br><br>
 
 #
 
